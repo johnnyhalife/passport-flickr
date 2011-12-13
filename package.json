@@ -1,13 +1,13 @@
 {
   "name": "passport-flickr",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Flickr authentication strategy for Passport.",
   "author": "Johnny Halife <johnny.halife@me.com> (http://johnny.io/)",
   "repository": {
     "type": "git",
     "url": "http://github.com/johnnyhalife/passport-flickr.git"
   },
-  "main": "./lib/passport-oauth",
+  "main": "./lib/passport-flickr",
   "dependencies": {
     "passport-oauth": ">= 0.1.0"
   },
